@@ -1,5 +1,8 @@
 package eq;
 
+/**
+ * Assuming that the create method is complicated and expensive method
+ */
 public class QuadraticEquationCreatorImpl implements QuadraticEquationCreator {
 
     public QuadraticEquationCreatorImpl() {

@@ -1,5 +1,8 @@
 package eq;
 
+/**
+ * The class simulate complicated logic that the test mock the implementation
+ */
 public class ResultDaoImpl implements ResultDao {
 
     public ResultDaoImpl() {
